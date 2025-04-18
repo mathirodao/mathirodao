@@ -15,7 +15,7 @@
 <h3 align="left">Visit my Site:</h3>
 <p align="left">
 <a href="https://mathiasrodao.netlify.app/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Sitio Web" height="30" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/archive/f/f2/20180127023926%21Globe_icon.svg" alt="Sitio Web" height="30" width="40" />
 </a>
 </p>
 
